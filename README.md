@@ -12,6 +12,8 @@ How to use will be updated when I have time :) :
   -st run stats on the stocks sheet
   To adjust rows stockstats must be manually edited for now:
     Edit minr, maxr in main()
+    
+    
 
 
 Data provided by IEX Cloud
